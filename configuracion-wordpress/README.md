@@ -1,5 +1,23 @@
 # Tutorial de WordPress
 
+## iniciar WordPress
+
+Para empezar entramos a nuestro WordPress mediante nuestra IP y comenzamos la configuración
+
+### 1. base de datos 
+
+En esta primera etapa tenemos con colocar los datos de nuestra base datos en MySQL, en nuestro caso sería:
+
+  - usuario: usuario
+  - contraseña: password
+  - base de datos: bbdd
+
+Y continuamos con la instalación.
+
+### 2. credenciales del administrador
+
+Aquí deberemos establecer las credenciales para poder entrar al panel de control WordPress, necesitaremos un usuario y una contraseña además de un correo de contacto, una vez rellenado todo continuamos y ya tendremos nuestro WordPress configurado.
+
 ## Blog
 
 ### 1. Crear 3 entradas en el blog
